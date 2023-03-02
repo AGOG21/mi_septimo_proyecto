@@ -1,0 +1,19 @@
+h1{
+    font-family: 'Rampart One', cursive;
+    text-align: center;
+    color: rgb(131, 8, 161);
+}
+.img{
+    display: flex;
+    justify-content: center;
+}
+.span-html{
+    display: flex;
+    justify-content: center;
+    color: rgb(131, 8, 161);
+    font-family: 'Fredoka One', cursive;
+}
+body{
+    background-image: url(https://cutewallpaper.org/28/cool-simplestic-wallpaper/85320882.jpg);
+    background-size: cover;
+}
